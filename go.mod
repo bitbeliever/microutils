@@ -1,4 +1,4 @@
-module microutils
+module github.com/bitbeliever/microutils
 
 go 1.17
 
